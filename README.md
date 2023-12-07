@@ -9,6 +9,8 @@
 
 [박히문학교](http://ync.ac.kr)
 
+![박히문](./image.png)
+
 
 
 <!--
