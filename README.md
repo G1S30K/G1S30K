@@ -1,4 +1,15 @@
-### Hi there 👋
+### 박히무이 👋
+소속 : 박히무이
+
+학과 : **박히무이**
+
+### 깃허브 작성방법
+1. 원격저장소 만들기
+2. 기억저장소 만들기
+
+[박히문학교](http://ync.ac.kr)
+
+
 
 <!--
 **G1S30K/G1S30K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
